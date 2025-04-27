@@ -1,4 +1,5 @@
 - [Home](/)
+- [Manifesto](manifesto.md)
 - [1. The World As It Is](world.md)
 - [2. The Withdrawal](withdrawal.md)
 - [3. The Reclamation](reclamation.md)
