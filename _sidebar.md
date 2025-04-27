@@ -6,3 +6,4 @@
 - [4. The Gift](gift.md)
 - [5. The Empty Path](empty.md)
 - [Triune Brain Theory](brain.md)
+- [Syllabus](syllabus.md)

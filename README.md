@@ -19,3 +19,4 @@ HermitONL is the minimal path to freedom, not through escapism, but through clar
 - [4. The Gift](gift.md)
 - [5. The Empty Path](emptypath.md)
 - [Triune Brain Theory](brain.md)
+- [Syllabus](syllabus.md)
