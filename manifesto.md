@@ -1,6 +1,6 @@
 # The HermitONL Manifesto
 
-## The Minimal Path to Freedom: A Blueprint for Autonomy, Mastery, and Financial Sovereignty
+The Minimal Path to Freedom: A Blueprint for Autonomy, Mastery, and Financial Sovereignty
 
 ### I. See the World Clearly
 
