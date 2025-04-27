@@ -5,3 +5,4 @@
 - [3. The Reclamation](reclamation.md)
 - [4. The Gift](gift.md)
 - [5. The Empty Path](empty.md)
+- [Triune Brain Theory](brain.md)
