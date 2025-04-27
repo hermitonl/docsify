@@ -1,4 +1,4 @@
-# The Triune Brain: A HermitONL Guide to Self-Mastery
+# The Triune Brain: A HermitONL Guide to Self-Sovereignty
 
 ## Introduction: The Observer's Advantage
 
@@ -61,7 +61,7 @@ We suffer not because we experience pain, but because we react to it blindly. Th
 
 **Nature:** Pure awareness that observes all three brain functions without identifying with any of them.
 
-**HermitONL Perspective:** The awakened hermit sees all parts but is owned by none. This is the seat of sovereignty - the ability to respond rather than react.
+**HermitONL Perspective:** The awakened hermit sees all parts but is owned by none. This is the seat of sovereignty — the ability to respond rather than react.
 
 **Cultivation Practices:**
 
