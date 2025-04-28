@@ -241,6 +241,8 @@ The neocortex's capacity for abstract thought creates unique forms of suffering:
 
 #### 1.3.3 Schopenhauer's Pendulum Reframed
 
+> “Life swings like a pendulum between pain and boredom.” — *Schopenhauer*
+
 Arthur Schopenhauer's observation that life swings between pain and boredom can be understood through the triune brain model:
 
 - **Pain (The Experience of Lack)**:
